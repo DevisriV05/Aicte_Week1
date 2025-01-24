@@ -1,6 +1,15 @@
 # Aicte_Week1
 To develop a CNN model to classify images of plastic waste
 
+Guideline:
+
+Overview
+
+Dataset
+
+Weekly progess
+
+Technologies used
 
 
 
@@ -27,19 +36,18 @@ https://www.kaggle.com/datasets/techsash/waste-classification-data/data
 
 📅 Weekly Progress
 Week 1: Data Import, Setup, and Learning the Basics of CNN
-This week, we focused on laying the groundwork for the project and building a strong understanding of CNNs. Here’s what we accomplished:
-Date: 20th January 2025 - 27th January 2025
-
+This week, we focused on laying the groundwork for the project and building a strong understanding of CNNs. 
 Activities:
 
 Imported the required libraries and frameworks.      
 Set up the project environment.      
 Explored the dataset structure.
 
-Week1-
+Week1- Wasteclassification.ipynb
+
 Kaggle Notebook
 
-Technologies Used
+🌐Technologies Used
 
 Python
 
